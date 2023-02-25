@@ -36,3 +36,7 @@ body{
   top: 50px;
   left: 0;
 }
+.header{
+  background-color: aliceblue;
+  font-size: 15px;
+}
